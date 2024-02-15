@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project 1</string>
+    <string-array name="operation_array">
+        <item>Tambah</item>
+        <item>Kurang</item>
+        <item>Bagi</item>
+        <item>Kali</item>
+    </string-array>
+
+</resources>
